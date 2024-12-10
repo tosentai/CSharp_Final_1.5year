@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OA\\2 year\\1 semester\\C#\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FED51B-1679-4CC2-8C8E-E3A7F482EC9D}|Final.UserInterface\\Final.UserInterface.csproj|d:\\oa\\2 year\\1 semester\\c#\\final\\final.userinterface\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FED51B-1679-4CC2-8C8E-E3A7F482EC9D}|Final.UserInterface\\Final.UserInterface.csproj|solutionrelative:final.userinterface\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FED51B-1679-4CC2-8C8E-E3A7F482EC9D}|Final.UserInterface\\Final.UserInterface.csproj|D:\\OA\\2 year\\1 semester\\C#\\Final\\final.userinterface\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2FED51B-1679-4CC2-8C8E-E3A7F482EC9D}|Final.UserInterface\\Final.UserInterface.csproj|solutionrelative:final.userinterface\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FED51B-1679-4CC2-8C8E-E3A7F482EC9D}|Final.UserInterface\\Final.UserInterface.csproj|d:\\oa\\2 year\\1 semester\\c#\\final\\final.userinterface\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FED51B-1679-4CC2-8C8E-E3A7F482EC9D}|Final.UserInterface\\Final.UserInterface.csproj|solutionrelative:final.userinterface\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "D:\\OA\\2 year\\1 semester\\C#\\Final\\Final.UserInterface\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "Final.UserInterface\\ReportGenerator.cs",
+              "ToolTip": "D:\\OA\\2 year\\1 semester\\C#\\Final\\Final.UserInterface\\ReportGenerator.cs",
+              "RelativeToolTip": "Final.UserInterface\\ReportGenerator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:56:33.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admin_dashboard.cs",
+              "DocumentMoniker": "D:\\OA\\2 year\\1 semester\\C#\\Final\\Final.UserInterface\\admin_dashboard.cs",
+              "RelativeDocumentMoniker": "Final.UserInterface\\admin_dashboard.cs",
+              "ToolTip": "D:\\OA\\2 year\\1 semester\\C#\\Final\\Final.UserInterface\\admin_dashboard.cs",
+              "RelativeToolTip": "Final.UserInterface\\admin_dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:38:56.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin_dashboard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\OA\\2 year\\1 semester\\C#\\Final\\Final.UserInterface\\admin_dashboard.cs",
+              "RelativeDocumentMoniker": "Final.UserInterface\\admin_dashboard.cs",
+              "ToolTip": "D:\\OA\\2 year\\1 semester\\C#\\Final\\Final.UserInterface\\admin_dashboard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Final.UserInterface\\admin_dashboard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:35:00.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

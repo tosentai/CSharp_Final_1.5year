@@ -1,0 +1,14 @@
+D:\OA\2 year\1 semester\C#\Final\Final.Core\bin\Debug\net8.0\Final.Core.deps.json
+D:\OA\2 year\1 semester\C#\Final\Final.Core\bin\Debug\net8.0\Final.Core.runtimeconfig.json
+D:\OA\2 year\1 semester\C#\Final\Final.Core\bin\Debug\net8.0\Final.Core.dll
+D:\OA\2 year\1 semester\C#\Final\Final.Core\bin\Debug\net8.0\Final.Core.pdb
+D:\OA\2 year\1 semester\C#\Final\Final.Core\obj\Debug\net8.0\Final.Core.csproj.AssemblyReference.cache
+D:\OA\2 year\1 semester\C#\Final\Final.Core\obj\Debug\net8.0\Final.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\OA\2 year\1 semester\C#\Final\Final.Core\obj\Debug\net8.0\Final.Core.AssemblyInfoInputs.cache
+D:\OA\2 year\1 semester\C#\Final\Final.Core\obj\Debug\net8.0\Final.Core.AssemblyInfo.cs
+D:\OA\2 year\1 semester\C#\Final\Final.Core\obj\Debug\net8.0\Final.Core.csproj.CoreCompileInputs.cache
+D:\OA\2 year\1 semester\C#\Final\Final.Core\obj\Debug\net8.0\Final.Core.dll
+D:\OA\2 year\1 semester\C#\Final\Final.Core\obj\Debug\net8.0\refint\Final.Core.dll
+D:\OA\2 year\1 semester\C#\Final\Final.Core\obj\Debug\net8.0\Final.Core.pdb
+D:\OA\2 year\1 semester\C#\Final\Final.Core\obj\Debug\net8.0\Final.Core.genruntimeconfig.cache
+D:\OA\2 year\1 semester\C#\Final\Final.Core\obj\Debug\net8.0\ref\Final.Core.dll
